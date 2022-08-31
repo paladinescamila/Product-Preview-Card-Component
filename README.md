@@ -6,8 +6,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
--   [Solution URL](https://github.com/paladinescamila/Product-Preview-Card-Component)
--   [Live Site URL](https://ppcp-frontent-mentor.netlify.app/)
+-   [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-tJk4l26k_C)
+-   [Live Site](https://ppcp-frontent-mentor.netlify.app/)
 
 ## Built with
 
